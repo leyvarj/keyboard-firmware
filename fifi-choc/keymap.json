@@ -1,0 +1,6 @@
+{
+  "keyboard": "crkbd/rev1",
+  "converter": "promicro_rp2040",
+  "keymap": "leyvarj",
+  "layout": "LAYOUT_split_3x5_3"
+}
